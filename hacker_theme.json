@@ -1,0 +1,26 @@
+"schemes": 
+    [
+        {
+            "background": "#001B00",
+            "black": "#002600",
+            "blue": "#003300",
+            "brightBlack": "#004000",
+            "brightBlue": "#006B00",
+            "brightCyan": "#00FFB3",
+            "brightGreen": "#00FF00",
+            "brightPurple": "#007500",
+            "brightRed": "#007F00",
+            "brightWhite": "#00FF7F",
+            "brightYellow": "#00FF40",
+            "cursorColor": "#00FF00",
+            "cyan": "#00CC99",
+            "foreground": "#00FF00",
+            "green": "#00A300",
+            "name": "Green Hacker Theme",
+            "purple": "#004D00",
+            "red": "#005200",
+            "selectionBackground": "#004D00",
+            "white": "#00FF00",
+            "yellow": "#00B200"
+        },
+  ]
